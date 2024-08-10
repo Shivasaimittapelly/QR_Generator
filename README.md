@@ -21,13 +21,13 @@ Made with `python`
 
 
 ## 🌟 How to run
+
 - Clone the Project
 - Run `pip install requirements.txt`
 - Run `python qrGenerator.py`
 
 
 ## 🤖 Author
-[Vivek](https://github.com/vivekthedev)
+[Shivasai](https://github.com/shivasaimittapelly)
 
-Any Questions?
-[Twitter](https://twitter.com/vivekthedev)
+
